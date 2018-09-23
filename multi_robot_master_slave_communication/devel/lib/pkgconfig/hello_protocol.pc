@@ -1,0 +1,8 @@
+prefix=/home/anjalee/multi_robot_communication/devel
+
+Name: hello_protocol
+Description: Description of hello_protocol
+Version: 0.0.0
+Cflags: -I/home/anjalee/multi_robot_communication/devel/include
+Libs: -L/home/anjalee/multi_robot_communication/devel/lib 
+Requires: 
